@@ -1,0 +1,12 @@
+װָ־: AName1, צגוע גמכמס: Color1
+װָ־: AName2, צגוע גמכמס: Color11
+װָ־: BName1, צגוע גמכמס: Color3
+װָ־: CName1, צגוע גמכמס: Color4
+װָ־: HName1, צגוע גמכמס: Color2
+װָ־: Name1, צגוע גמכמס: Color2
+װָ־: Name2, צגוע גמכמס: Color12
+װָ־: TName1, צגוע גמכמס: Color5
+װָ־: UName1, צגוע גמכמס: Color8
+װָ־: UName2, צגוע גמכמס: Color9
+װָ־: YName1, צגוע גמכמס: Color7
+װָ־: YName2, צגוע גמכמס: Color10
