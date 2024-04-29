@@ -2,15 +2,19 @@
 
 using namespace std;
 
-template<typename T>
-class TreeNode {
-public:
-    T data;
-    TreeNode* left;
-    TreeNode* right;
+namespace Node {
+    template<typename T>
+    class TreeNode {
+    public:
+        T data;
+        TreeNode* left;
+        TreeNode* right;
 
-    TreeNode(T val) : data(val), left(nullptr), right(nullptr) {}
-};
+        TreeNode(T val) : data(val), left(nullptr), right(nullptr) {}
+    };
+}
+
+using namespace Node;
 
 template<typename T>
 class BinaryTree {
